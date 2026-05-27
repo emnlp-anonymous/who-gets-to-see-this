@@ -14,6 +14,8 @@ pip install wandb
 pip install scikit-learn pandas tqdm pyyaml
 ```
 
+# Dataset
+
 3. Dataset Structure
 ```
 datasets/
@@ -25,6 +27,7 @@ datasets/
 │   ├── imgur-data.csv
 │   └── images
 ```
+# Training
 
 4. Training
 ```
